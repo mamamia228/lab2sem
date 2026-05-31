@@ -184,7 +184,7 @@ titanic_cleaned.csv
 
 ## Ссылка на Google Colab
 
-Добавить ссылку на собственный ноутбук Google Colab.
+https://colab.research.google.com/drive/1IYFA1hIoQfhZ98i_HztnnsbWEw-b8qes?usp=sharing
 
 ---
 
